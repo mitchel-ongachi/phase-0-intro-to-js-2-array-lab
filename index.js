@@ -25,11 +25,11 @@ function appendCat(name) {
     const cats = ["Milo", "Otis", "Garfield"];
   
     const newCats = [...cats, name];
-  
     return newCats;
 }
+  
 
-cats.length=0
+
 function prependCat(name) {
     const cats = ["Milo", "Otis", "Garfield"];
   
